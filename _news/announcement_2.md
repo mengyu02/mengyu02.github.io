@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented our work at Allerton Conference, UIUC
+Presented our work at 2023 Allerton Conference, UIUC.
