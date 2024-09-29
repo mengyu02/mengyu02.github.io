@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-05-23 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented our work of mask analysis for snapshot compressive imaging at Conference on Inverse Problems for Partial Differential Equations, Rutgers

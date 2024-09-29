@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. student in ECE, Rutgers University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mypic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>CoRE 735, Busch Campus</p>
+    <p>Rutgers University</p>
+    <p>Piscataway, NJ, 08854</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Mengyu Zhao, currently a third-year PhD student in the [Department of Electrical and Computer Engineering at Rutgers University](https://www.ece.rutgers.edu/), where I am advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home). Before that, I earned my master’s degree in Statistics at Rutgers, working with Prof. [Sijian Wang](https://sites.rutgers.edu/sijian-wang/), and my bachelor’s degree from Xi'an Jiaotong University under the guidance of Prof. [Xiaohu Yang](https://gr.xjtu.edu.cn/web/xiaohuyang).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research background includes Computational Imaging, Inverse Problems, and Statistical Machine Learning. Currently, I am focusing on developing theoretical guarantees and efficient machine learning algorithms for modern computational imaging inverse problems, such as Snapshot Compressive Imaging.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This semester, we are also organizing a [reading group](https://sites.google.com/view/readinggroupforinverseprob/about) that explores topics in deep learning and inverse problems. I’m always open to collaborations. Feel free to reach out if you’d like to discuss or work together.
+
+Email: mengyu.zhao [at] rutgers [dot] edu
+
+Outside of academia, I’m passionate about tennis and hiking⛰. Let me know if you'd like to hit the courts for a rally sometime!
