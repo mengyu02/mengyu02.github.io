@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visited Prof. [Xin Yuan](https://sites.google.com/site/eiexyuan/home)'s Lab at Westlake University.
+Visited Prof. [Xin Yuan](https://sites.google.com/site/eiexyuan/home)'s Lab at Westlake University. Thanks for the warm welcome!
