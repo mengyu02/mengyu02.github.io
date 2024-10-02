@@ -7,7 +7,7 @@ first_name: Mengyu
 middle_name:
 last_name: Zhao
 email: mengyu.zhao@rutgers.edu
-description: aaaaa # the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
   #A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -119,7 +119,7 @@ contact_note: > # You can even add a little note about which of these is the bes
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-XQCTDHMBSH
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
