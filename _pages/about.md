@@ -12,8 +12,6 @@ profile:
     <p>CoRE Building, 735</p>
     <p>96 Frelinghuysen Rd</p>
     <p>Piscataway, NJ, 08854</p>
-    <p>Email:</p>
-    </p>mengyu.zhao [at] rutgers [dot] edu<p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,3 +27,5 @@ Before that, I earned my Master’s degree in Statistics at Rutgers, and my Bach
 This semester, we are also organizing a [reading group](https://sites.google.com/view/readinggroupforinverseprob/about) that explores topics in deep learning and inverse problems. I’m always open to collaborations. 
 
 Outside of academia, I’m passionate about tennis and hiking. Let me know if you'd like to hit the courts for a rally sometime!
+
+**Email:** mengyu.zhao [at] rutgers [dot] edu
