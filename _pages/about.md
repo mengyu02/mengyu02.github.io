@@ -12,7 +12,8 @@ profile:
     <p>CoRE Building, 735</p>
     <p>96 Frelinghuysen Rd</p>
     <p>Piscataway, NJ, 08854</p>
-    <p>Email: mengyu.zhao [at] rutgers [dot] edu<p>
+    <p>Email:</p>
+    </p>mengyu.zhao [at] rutgers [dot] edu<p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
