@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I’m Mengyu Zhao, currently a third-year PhD student in the [Department of Electrical and Computer Engineering at Rutgers University](https://www.ece.rutgers.edu/), where I am advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home). 
 
-My research background includes Computational Imaging, Inverse Problems, and Statistical Machine Learning. Currently, I am focusing on developing theoretical guarantees and efficient machine learning algorithms for modern computational imaging inverse problems, such as Snapshot Compressive Imaging. Feel free to reach out if you’d like to discuss or work together.
+My research background includes Computational Imaging, Inverse Problems, and Statistical Machine Learning. Currently, I am focusing on developing theoretical guarantees and efficient machine learning algorithms for modern computational imaging inverse problems, such as [Snapshot Compressive Imaging](https://en.wikipedia.org/wiki/Snapshot_hyperspectral_imaging). Feel free to reach out if you’d like to discuss or work together.
 
 Before that, I earned my Master’s degree in Statistics at Rutgers, and my Bachelor’s degree from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) under the guidance of Prof. [Xiaohu Yang](https://gr.xjtu.edu.cn/web/xiaohuyang).
 
