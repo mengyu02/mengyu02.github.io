@@ -9,7 +9,7 @@ profile:
   image: mypic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CoRE Building, 735</p>
+    <p>CoRE Building, Room 735</p>
     <p>96 Frelinghuysen Rd</p>
     <p>Piscataway, NJ, 08854</p>
 
@@ -29,4 +29,4 @@ This semester, we are organizing a [reading group](https://sites.google.com/view
 
 Outside of academia, I enjoy tennis and hiking. Let me know if you'd like to meet up for a rally sometime!
 
-**Email:** mengyu.zhao [at] rutgers [dot] edu
+**Email:** mengyu.zhao [at] rutgers [dot]
