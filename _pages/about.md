@@ -29,4 +29,4 @@ This semester, we are organizing a [reading group](https://sites.google.com/view
 
 Outside of academia, I enjoy tennis and hiking. Let me know if you'd like to meet up for a rally sometime!
 
-**Email:** mengyu.zhao [at] rutgers [dot]
+**Email:** mengyu.zhao [at] rutgers [dot] edu
