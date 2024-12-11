@@ -19,14 +19,19 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, I’m Mengyu Zhao, a third-year PhD student in the [Department of Electrical and Computer Engineering (ECE) at Rutgers University](https://www.ece.rutgers.edu/), advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home).
+Hi, I am Mengyu Zhao, a third-year PhD student in the [Department of Electrical and Computer Engineering (ECE) at Rutgers University](https://www.ece.rutgers.edu/), where I am advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home).
 
-My research focuses on Inverse Problems, Generative Model and 3D Reconstruction. Currently, I am working on developing theoretical guarantees and robust machine learning algorithms for reconstruction problems, such as [Snapshot Compressive Imaging](https://en.wikipedia.org/wiki/Snapshot_hyperspectral_imaging). Feel free to reach out if you’d like to discuss or collaborate.
+My research interests span **Inverse Problems**, **2D/3D Reconstruction**, **Generative Models**, and **Large Language Models (LLMs)**, among others.  
+- **Reconstruction**: Exploring theoretical limits and developing robust algorithms (generative model, implicit prior).  
+- **LLM**: Improving efficiency in vision-LLM.
 
-Before this, I earned my Master’s degree in Statistics at Rutgers and my Bachelor’s degree from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) under the guidance of Prof. [Xiaohu Yang](https://gr.xjtu.edu.cn/web/xiaohuyang).
+I am always open to discussions and collaborations—please feel free to reach out!
 
-This semester, we are organizing a [reading group](https://sites.google.com/view/readinggroupforinverseprob/about) that explores topics in deep learning and inverse problems.
+Before pursuing my PhD, I earned a Master’s degree in Statistics at Rutgers University and a Bachelor’s degree from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), where I was advised by Prof. [Xiaohu Yang](https://gr.xjtu.edu.cn/web/xiaohuyang).
 
-Outside of academia, I enjoy tennis and hiking. Let me know if you'd like to meet up for a rally sometime!
+This semester, I am co-organizing a [reading group](https://sites.google.com/view/readinggroupforinverseprob/about) focusing on deep learning and inverse problems.
 
-**Email:** mengyu.zhao [at] rutgers [dot] edu
+Outside of academia, I enjoy playing tennis and hiking. Let me know if you would like to meet up for a tennis rally!
+
+**Email**: mengyu.zhao [at] rutgers [dot] edu
+
