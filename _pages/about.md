@@ -19,15 +19,15 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, I am Mengyu Zhao, a third-year PhD student in the [Department of Electrical and Computer Engineering (ECE) at Rutgers University](https://www.ece.rutgers.edu/), where I am advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home).
+Hi, I am Mengyu Zhao, a third-year PhD student in the [Department of Electrical and Computer Engineering (ECE), Rutgers University](https://www.ece.rutgers.edu/), working with Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home).
 
 My research interests inlclude **Inverse Problems**, **2D/3D Reconstruction**, **LLM**, etc.  
-- **Reconstruction**: Exploring theoretical limits and developing robust algorithms (generative model, implicit prior).  
-- **LLM**: Improving efficiency in vision-LLM.
+- **Reconstruction**: Exploring theoretical limits and developing robust algorithms (generative model, implicit prior...)
+- **LLM**: Improving efficiency in vision-LLM
 
 I am always open to discussions and collaborations—please feel free to reach out!
 
-Before pursuing my PhD, I earned a Master’s degree in Statistics at Rutgers University and a Bachelor’s degree from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), where I was advised by Prof. [Xiaohu Yang](https://gr.xjtu.edu.cn/web/xiaohuyang).
+Before pursuing my PhD, I earned a Master’s degree in Statistics at Rutgers University and a Bachelor’s degree from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), advised by Prof. [Xiaohu Yang](https://gr.xjtu.edu.cn/web/xiaohuyang).
 
 This semester, I am co-organizing a [reading group](https://sites.google.com/view/readinggroupforinverseprob/about) focusing on deep learning and inverse problems.
 
