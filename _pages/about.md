@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am Mengyu Zhao, a third-year PhD student in the [Department of Electrical and Computer Engineering (ECE) at Rutgers University](https://www.ece.rutgers.edu/), where I am advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home).
 
-My research interests span **Inverse Problems**, **2D/3D Reconstruction**, **Generative Models**, and **Large Language Models (LLMs)**, among others.  
+My research interests inlclude **Inverse Problems**, **2D/3D Reconstruction**, **Large Language Models (LLMs)**, etc.  
 - **Reconstruction**: Exploring theoretical limits and developing robust algorithms (generative model, implicit prior).  
 - **LLM**: Improving efficiency in vision-LLM.
 
