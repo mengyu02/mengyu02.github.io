@@ -21,9 +21,10 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am Mengyu Zhao, a third-year PhD student in the [Department of Electrical and Computer Engineering (ECE), Rutgers University](https://www.ece.rutgers.edu/), working with Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home).
 
-My research interests inlclude **Inverse Problems**, **Sensing and Reconstruction**, **LLM**, etc.  
-- **Reconstruction**: Exploring theoretical limits and developing robust algorithms (generative model, implicit prior...)
-- **LLM**: Improving efficiency in vision-LLM
+My research interests is primaly focused on **Inverse Problems**, **2D/3D Sensing Reconstruction**, **Efficient AI**, etc.  
+
+- **Inverse Problem**: Explor theoretical performance limits and developing efficient and robust algorithms (generative model, implicit prior, etc.) for 2D/3D imaging system
+- **Efficient AI**: Improving efficiency in vision-LLM
 
 Before my PhD, I got Master’s in Statistics at Rutgers University and Bachelor’s degree from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), advised by Prof. [Xiaohu Yang](https://gr.xjtu.edu.cn/web/xiaohuyang).
 
