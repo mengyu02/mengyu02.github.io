@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am Mengyu Zhao, a third-year PhD student in the [Department of Electrical and Computer Engineering (ECE), Rutgers University](https://www.ece.rutgers.edu/), working with Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home).
 
-My research interests primarily focus on **Inverse Problems**, **2D/3D Compression and Reconstruction**, **Efficient AI**, etc.  
+My research interests primarily focus on **Inverse Problems**, **Image and Video Compression and Reconstruction**, **Efficient AI**, etc.  
 
-- **Inverse Problem**: Exploring theoretical performance limits and developing efficient, robust algorithms (e.g., generative models, implicit priors, NeRF, etc.) for 2D/3D imaging systems.
+- **Inverse Problem**: Exploring theoretical performance limits and developing efficient, robust algorithms (e.g., generative models, implicit priors, NeRF, etc.) for imaging systems.
 - **Efficient AI**: Improving efficiency in vision-LLM
 
 Before my PhD, I got Master’s in Statistics at Rutgers University and Bachelor’s degree from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), advised by Prof. [Xiaohu Yang](https://gr.xjtu.edu.cn/web/xiaohuyang).
