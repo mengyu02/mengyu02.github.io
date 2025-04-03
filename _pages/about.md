@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ [Rutgers University](https://www.rutgers.edu/)
+subtitle: PhD student @ <a href='https://www.rutgers.edu/'>Rutgers University</a>
 
 profile:
   align: left
