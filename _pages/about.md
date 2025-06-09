@@ -23,8 +23,8 @@ Hi, I am Mengyu Zhao, a PhD student in the [Department of Electrical and Compute
 
 Some research topics I am excited include:
 
-* Visual Restoration using image priors
-* Agenets for LLM and Multimodal LLM
+  * Visual Restoration using image priors
+  * Agenets for LLM and Multimodal LLM
 
 Before my PhD, I got BS from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) and MS from Rutgers University.
 
