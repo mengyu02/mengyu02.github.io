@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD student @ <a href='https://www.rutgers.edu/'>Rutgers University</a>
 
 profile:
-  align: left
+  align: right
   image: mypic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
@@ -23,7 +23,7 @@ Hi, I am Mengyu Zhao, a PhD student in the [Department of Electrical and Compute
 
 Some research topics I am excited include: 
   - Visual Restoration using image priors
-  - Agenets for LLM and Multimodal LLM
+  - Agents for LLM and Multimodal LLM
 
 Before my PhD, I got BS from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) and MS from Rutgers University.
 
