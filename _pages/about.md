@@ -19,13 +19,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, I am Mengyu Zhao, a PhD student in the [Department of Electrical and Computer Engineering (ECE), Rutgers University](https://www.ece.rutgers.edu/) where I am fortunate to be advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home). 
+Hi, I am Mengyu Zhao, a PhD student in the [Electrical and Computer Engineering (ECE) at Rutgers University](https://www.ece.rutgers.edu/) where I am fortunate to be advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home). 
 
 Some research topics I am excited include: 
-  - Visual Restoration using image priors
-  - Agents for LLM and Multimodal LLM
+  - **Visual Restoration** using image priors
+  - **Agents** for LLM and Multimodal LLM
 
-Before my PhD, I got BS from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) and MS from Rutgers University.
+Before starting my PhD, I got BE from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) and MS from [Rutgers University](https://www.rutgers.edu/).
 
 _I am always open to discussions and collaborations—please feel free to reach out!_ This semester, I am organizing a [reading group](https://sites.google.com/view/readinggroupforinverseprob/about) focusing on deep learning and inverse problems.
 
