@@ -19,17 +19,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, I am Mengyu Zhao, a PhD student in the [Electrical and Computer Engineering (ECE) at Rutgers University](https://www.ece.rutgers.edu/) where I am fortunate to be advised by Prof. [Shirin Jalali](https://sites.google.com/site/shirinjalali/home). 
+Hi, I am **Mengyu Zhao**, a PhD student in [ECE at Rutgers University](https://www.ece.rutgers.edu/), advised by [Prof. Shirin Jalali](https://sites.google.com/site/shirinjalali/home). I work on **visual restoration with image priors** and **LLM/MLLM agents and efficiency**. Before starting my PhD, I earned my BE from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/) and my MS from [Rutgers University](https://www.rutgers.edu/).  
 
-Some research topics I am excited include: 
-  - **Visual Restoration** with image priors
-  - **LLM/MLLM** agents and efficiency
-
-Before starting my PhD, I got BE from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) and MS from [Rutgers University](https://www.rutgers.edu/).
-
-_I am always open to discussions and collaborations—please feel free to reach out!_ This semester, I am organizing a [reading group](https://sites.google.com/view/readinggroupforinverseprob/about) focusing on deep learning and inverse problems.
-
-I have done research internship at [Bloomberg](https://www.bloomberg.com/company/what-we-do/engineering-cto/) during summer 2025.
+I am always happy to chat and collaborate. We have a [reading group](https://sites.google.com/view/readinggroupforinverseprob/about) on deep learning for inverse problems. I also interned at [Bloomberg](https://www.bloomberg.com/company/what-we-do/engineering-cto/) in summer 2025, working on a GUI LLM agent project.  
 
 **Email**: mengyu.zhao [at] rutgers [dot] edu
 
